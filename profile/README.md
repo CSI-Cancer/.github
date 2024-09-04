@@ -1,12 +1,3 @@
-## Hi there 👋
+# Welcome!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is the GitHub organization that serves the [Convergent Science Institute in Cancer](https://dornsife.usc.edu/kuhn/), a research organization at the University of Southern California. If you are a part of the lab and need access to this organization, please contact your advisor or the IT team. 
